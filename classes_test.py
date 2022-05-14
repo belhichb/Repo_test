@@ -3,6 +3,7 @@
 #my second commit
 #test PC
 #this line is added in github
+#second line in github
 
 class Student():
     def __init__(self,name,cin,bth_day):
