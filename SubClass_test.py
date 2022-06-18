@@ -28,6 +28,3 @@ class Socks(Clothing):
         return "Take a look at my socks! They're gorgeous!"
     def sell(self):
         return "Buy my socks!"
-=======
-#change fromgit
->>>>>>> f73efce085d298caed7c8ac8e9cfef4f37cba59e
