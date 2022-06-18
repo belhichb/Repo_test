@@ -1,5 +1,4 @@
 #this file is used to test  sub classes
-<<<<<<< HEAD
 # Define a Clothing superclass with wear and sell instance methods.
 # The wear method should return the string “I'm wearing this fashionable piece of clothing!”
 # The sell method should return the string “Buy my piece of clothing!”
