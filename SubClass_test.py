@@ -1,4 +1,5 @@
 #this file is used to test  sub classes
+<<<<<<< HEAD
 # Define a Clothing superclass with wear and sell instance methods.
 # The wear method should return the string “I'm wearing this fashionable piece of clothing!”
 # The sell method should return the string “Buy my piece of clothing!”
@@ -28,3 +29,6 @@ class Socks(Clothing):
         return "Take a look at my socks! They're gorgeous!"
     def sell(self):
         return "Buy my socks!"
+=======
+#change fromgit
+>>>>>>> f73efce085d298caed7c8ac8e9cfef4f37cba59e
