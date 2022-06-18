@@ -3,8 +3,10 @@
 #my second commit
 #test PC
 #this line is added in github
+#second line in github
 
 class Student():
+<<<<<<< HEAD
     def __init__(self,name,cin,age):
         self.name=name
         self.cin=cin
@@ -41,3 +43,12 @@ print(adnan)
 print(Hicham==adnan)
 if Hicham:
     print("over 18")
+=======
+    def __init__(self,name,cin,bth_day,option):
+        self.name=name
+        self.cin=cin
+        self.bth_day=bth_day
+        self.option=option
+
+Hicham=Student("hicham",123456,1985,"Sc Math")
+>>>>>>> 064e6aa1b20b1c563050731f05efc8ead02a3316
